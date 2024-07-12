@@ -11,7 +11,7 @@
     </span>
     <span class="filter-option">
       <input type="checkbox" id="career" checked @change="setFilter" />
-      <label for="career">Career</label>
+      <label for="career">Career Counseling </label>
     </span>
   </base-card>
 </template>
