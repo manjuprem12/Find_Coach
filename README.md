@@ -1,4 +1,4 @@
-# Find_Coach
+# Find Your Coach
 Find your coach
 # Getting started with Find your coach
 
