@@ -9,6 +9,7 @@ Frontend - Vue
 Database - Fire Base
 
 Git clone (https://github.com/manjuprem12/find-your-coach.git)
+Path to the application (https://find-coach-vue.vercel.app/coaches)
 
 ## Table of Contents
 - [Project Setup] (#project-setup)
